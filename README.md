@@ -1,5 +1,5 @@
 # About this repository: AirBnB-EDA
-The repository contains AirBnB listing activities and metrics for the five boroughs of New York (Brooklyn, Manhattan, Queens, Bronx and Staten Island), from 2011 to 2019.
+This repository consists of python-based EDA on New York's AirBnB data. The dataset was found at 'https://www.kaggle.com/code/whyalwaysme/ab-nyc-2019'.
 
 ## Folder Structure
 The project is organised with the following folder structure:
