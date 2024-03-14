@@ -1,23 +1,26 @@
-# About this repository: animal-centre-data
-The dataset contains AirBnB listing activities and metrics for the five boroughs of New York (Brooklyn, Manhattan, Queens, Bronx and Staten Island), from 2011 to 2019.
+# About this repository: AirBnB-EDA
+The repository contains AirBnB listing activities and metrics for the five boroughs of New York (Brooklyn, Manhattan, Queens, Bronx and Staten Island), from 2011 to 2019.
 
 ## Folder Structure
 The project is organised with the following folder structure:
-- **sql_script**: contains the source code along with comments to explain the code
+- **python_script**: contains the source code along with comments to explain the code
 - **dataset**: contains the original AirBnB dataset
 
 ## Description of the data
 The dataset contains information about the various accommodations available throughout the five boroughs of New York. It contains data such as:
-- The identification number given to the animal
-- The name of the animal
-- The date the animal was taken in
-- The location where the animal was found
-- The reason why the animal was taken in
-- The health condition of the animal
-- The type of animal it is
-- The sex of the animal
-- The age of the animal when it was taken in
-- The breed of the animal
-- The colour of the animal
+- The identification number given to the accommodation
+- The review given on the accommodation
+- The name of the host
+- The New York borough in which it is located in
+- The neigbourhood of the accommodation
+- The latitude and longitude coordinates of the accommodation
+- The type of accommodation it is
+- The price of the accommodation
+- The minimum nights spent at the accommodation
+- The number of reviews
+- The date of the last review
+- The number of reviews per month
+- The total host listings per accommodation
+- The availability of the accommodation
 
 ## Summary of insights
