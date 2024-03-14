@@ -22,5 +22,3 @@ The dataset contains information about the various accommodations available thro
 - The number of reviews per month
 - The total host listings per accommodation
 - The availability of the accommodation
-
-## Summary of insights
