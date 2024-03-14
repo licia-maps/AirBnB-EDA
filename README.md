@@ -3,7 +3,7 @@ This repository consists of python-based EDA on New York's AirBnB data. The data
 
 ## Folder Structure
 The project is organised with the following folder structure:
-- **Task 3 - AirBnB data**: contains the source code along with comments to explain the code and the original AirBnB dataset
+- **Task 3 - AirBnB Data**: contains the source code along with comments to explain the code and the original AirBnB dataset
 
 ## Description of the data
 The dataset contains information about the various accommodations available throughout the five boroughs of New York. It contains data such as:
