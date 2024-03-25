@@ -16,8 +16,8 @@ The project is organized as follows:
 ## Usage
 
 1. **Data Preparation**:
-   - The `data` directory contains the raw and preprocessed datasets.
-   - Preprocessing steps are documented in the notebooks.
+   - The `data` directory contains the raw and preprocessed dataset.
+   - Preprocessing steps are documented in the notebook.
 
 2. **Exploratory Data Analysis (EDA)**:
    - The dataset is explored using Jupyter notebooks in the `notebooks` directory.
