@@ -1,23 +1,40 @@
-# About this repository: AirBnB-EDA
-This repository consists of python-based EDA on New York's AirBnB data. The dataset was found at 'https://www.kaggle.com/code/whyalwaysme/ab-nyc-2019'.
+# AirBnB Exploratory Data Analysis
 
-## Folder Structure
-The project is organised with the following folder structure:
-- **Task 3 - AirBnB Data**: contains the source code along with comments to explain the code and the original AirBnB dataset
+## Overview
 
-## Description of the data
-The dataset contains information about the various accommodations available throughout the five boroughs of New York. It contains data such as:
-- The identification number given to the accommodation
-- The review given on the accommodation
-- The name of the host
-- The New York borough in which it is located in
-- The neigbourhood of the accommodation
-- The latitude and longitude coordinates of the accommodation
-- The type of accommodation it is
-- The price of the accommodation
-- The minimum nights spent at the accommodation
-- The number of reviews
-- The date of the last review
-- The number of reviews per month
-- The total host listings per accommodation
-- The availability of the accommodation
+This repository contains code and documentation for an AirBnB Exploratory Data Analysis project. The project aims to identify relationships that exist between variables, and uncover patterns that can provide some insight into the airbnb industry in New York.
+
+## Project Structure
+
+The project is organized as follows:
+
+- **data**: Contains the dataset used in the project.
+- **notebooks**: Jupyter notebook containing code for data analysis and visualization.
+- **reports**: Documentation, reports, and presentation materials.
+- **README.md**: This file, providing an overview of the project.
+
+## Usage
+
+1. **Data Preparation**:
+   - The `data` directory contains the raw and preprocessed datasets.
+   - Preprocessing steps are documented in the notebooks.
+
+2. **Exploratory Data Analysis (EDA)**:
+   - The dataset is explored using Jupyter notebooks in the `notebooks` directory.
+   - Key insights and trends in customer behavior are visualised.
+
+3. **Reporting**:
+   - Findings, methodology, and results are documented in the `reports` directory
+   - Presentation slides and reports summarizing the project for stakeholders.
+
+## Contributors
+
+- Alicia Maposa: Sole contributor. Handled all aspects of the project including data analysis and documentation.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- The dataset used in this project is sourced from Kaggle: [Link to dataset](https://www.kaggle.com/code/whyalwaysme/ab-nyc-2019)
